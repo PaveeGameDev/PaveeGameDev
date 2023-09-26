@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaveeGameDev
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on games
+- 👀 I’m interested in Game development Web development
+- 🌱 I’m currently learning React
+- 💞️ I’m currently looking to collaborate on anything.
 - 📫 You can reach me via email - Paveegamedevinfo@gmail.com
 
 <!---
